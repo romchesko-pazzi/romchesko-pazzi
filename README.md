@@ -22,8 +22,6 @@ Frontend developer
 
 <a href="http://www.github.com/romchesko-pazzi"><img src="https://github-readme-stats.vercel.app/api?username=romchesko-pazzi&show_icons=true&hide=stars,issues,contribs&title_color=14b8a6&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="romchesko-pazzi's GitHub stats" /></a>
 
-<a href="http://www.github.com/romchesko-pazzi"><img src="https://activity-graph.herokuapp.com/graph?username=romchesko-pazzi&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/romchesko-pazzi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romchesko-pazzi&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
