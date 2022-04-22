@@ -1,5 +1,12 @@
 Hi 👋 My name is Roman Konstantyuk
-==================================Frontend developer------------------* 🌍  I'm based in Belarus, Minsk* ✉️  You can contact me at [romchesko.pazzi@gmail.com](mailto:romchesko.pazzi@gmail.com)* 🚀  I'm currently working on [Todolist](http://github.com/romchesko-pazzi/todolist)* 🧠  I'm learning React/Redux
+==================================
+
+Frontend developer
+------------------
+* 🌍  I'm based in Belarus, Minsk
+* ✉️  You can contact me at [romchesko.pazzi@gmail.com](mailto:romchesko.pazzi@gmail.com)
+* 🚀  I'm currently working on [Todolist](http://github.com/romchesko-pazzi/todolist)
+* 🧠  I'm learning React/Redux
 
 ### Skills
 
