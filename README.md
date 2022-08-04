@@ -5,7 +5,6 @@ Frontend developer
 ------------------
 * 🌍  I'm based in Belarus, Minsk
 * ✉️  You can contact me at [roman.konstantsiuk@gmail.com](mailto:roman.konstantsiuk@gmail.com)
-* 🚀  I'm currently working on [Todolist](http://github.com/romchesko-pazzi/todolist)
 * 🧠  I'm learning React/Redux
 
 ### Skills
