@@ -24,4 +24,4 @@ Frontend developer
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/romchesko-pazzi/cards" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=romchesko-pazzi&repo=todolist&title_color=14b8a6&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/romchesko-pazzi/cards" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=romchesko-pazzi&repo=cards&title_color=14b8a6&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
